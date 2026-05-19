@@ -1,0 +1,170 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Top 10 source countries, January 2026",
+  "width": 500,
+  "height": 340,
+  "data": {
+    "url": "data/students_by_country_latest.csv"
+  },
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "Students",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.rank <= 10"
+    },
+    {
+      "calculate": "0",
+      "as": "Zero"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 2,
+        "color": "#9fb3c8"
+      },
+      "encoding": {
+        "y": {
+          "field": "Nationality",
+          "type": "nominal",
+          "sort": {
+            "field": "Students",
+            "order": "descending"
+          },
+          "title": null,
+          "axis": {
+            "labelLimit": 120
+          }
+        },
+        "x": {
+          "field": "Zero",
+          "type": "quantitative",
+          "title": "Students",
+          "axis": {
+            "format": "~s"
+          }
+        },
+        "x2": {
+          "field": "Students"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 115,
+        "color": "#2f6f9f"
+      },
+      "encoding": {
+        "y": {
+          "field": "Nationality",
+          "type": "nominal",
+          "sort": {
+            "field": "Students",
+            "order": "descending"
+          },
+          "title": null,
+          "axis": {
+            "labelLimit": 120
+          }
+        },
+        "x": {
+          "field": "Students",
+          "type": "quantitative",
+          "title": "Students",
+          "axis": {
+            "format": "~s"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Nationality",
+            "type": "nominal",
+            "title": "Country"
+          },
+          {
+            "field": "Region",
+            "type": "nominal"
+          },
+          {
+            "field": "Students",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Students"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 8,
+        "fontSize": 10
+      },
+      "encoding": {
+        "y": {
+          "field": "Nationality",
+          "type": "nominal",
+          "sort": {
+            "field": "Students",
+            "order": "descending"
+          },
+          "title": null,
+          "axis": {
+            "labelLimit": 120
+          }
+        },
+        "x": {
+          "field": "Students",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "Students",
+          "type": "quantitative",
+          "format": "~s"
+        },
+        "color": {
+          "value": "#333"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "gridColor": "#e5e0d6",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "title": {
+      "font": "Arial",
+      "fontSize": 15,
+      "anchor": "start",
+      "fontWeight": "bold"
+    }
+  }
+}

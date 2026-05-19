@@ -1,0 +1,157 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Change in students by state/territory, January 2025 to January 2026",
+  "width": 500,
+  "height": 330,
+  "data": {
+    "url": "data/state_change_2025_2026.csv"
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "gridColor": "#e5e0d6",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "title": {
+      "font": "Arial",
+      "fontSize": 15,
+      "anchor": "start",
+      "fontWeight": "bold"
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar"
+      },
+      "encoding": {
+        "y": {
+          "field": "State_Name",
+          "type": "nominal",
+          "sort": {
+            "field": "Change",
+            "order": "ascending"
+          },
+          "title": null
+        },
+        "x": {
+          "field": "Change",
+          "type": "quantitative",
+          "title": "Change in students",
+          "axis": {
+            "format": "+,d"
+          }
+        },
+        "color": {
+          "condition": {
+            "test": "datum.Change >= 0",
+            "value": "#2b7bba"
+          },
+          "value": "#b84a4a"
+        },
+        "tooltip": [
+          {
+            "field": "State_Name",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "Students_2025",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Students 2025"
+          },
+          {
+            "field": "Students_2026",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Students 2026"
+          },
+          {
+            "field": "Change",
+            "type": "quantitative",
+            "format": "+,d"
+          },
+          {
+            "field": "Percent_Change",
+            "type": "quantitative",
+            "format": "+.1f",
+            "title": "% change"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 4,
+        "fontSize": 10
+      },
+      "encoding": {
+        "y": {
+          "field": "State_Name",
+          "type": "nominal",
+          "sort": {
+            "field": "Change",
+            "order": "ascending"
+          },
+          "title": null
+        },
+        "x": {
+          "field": "Change",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "Percent_Change",
+          "type": "quantitative",
+          "format": "+.1f"
+        },
+        "color": {
+          "value": "#333"
+        },
+        "tooltip": [
+          {
+            "field": "State_Name",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "Students_2025",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Students 2025"
+          },
+          {
+            "field": "Students_2026",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Students 2026"
+          },
+          {
+            "field": "Change",
+            "type": "quantitative",
+            "format": "+,d"
+          },
+          {
+            "field": "Percent_Change",
+            "type": "quantitative",
+            "format": "+.1f",
+            "title": "% change"
+          }
+        ]
+      }
+    }
+  ]
+}

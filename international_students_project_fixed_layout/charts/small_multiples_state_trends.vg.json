@@ -1,0 +1,85 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "State and territory trends, January snapshots",
+  "data": {
+    "url": "data/students_by_state_time_jan.csv"
+  },
+  "facet": {
+    "field": "State_Name",
+    "type": "nominal",
+    "columns": 4,
+    "title": null
+  },
+  "spec": {
+    "width": 210,
+    "height": 115,
+    "mark": {
+      "type": "line",
+      "point": true
+    },
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "ordinal",
+        "title": null,
+        "axis": {
+          "labelAngle": 0,
+          "labelOverlap": true,
+          "labelFontSize": 9
+        }
+      },
+      "y": {
+        "field": "Students",
+        "type": "quantitative",
+        "title": null,
+        "axis": {
+          "format": "~s",
+          "labelFontSize": 9
+        }
+      },
+      "tooltip": [
+        {
+          "field": "State_Name",
+          "title": "State"
+        },
+        {
+          "field": "Year"
+        },
+        {
+          "field": "Students",
+          "type": "quantitative",
+          "format": ","
+        }
+      ]
+    }
+  },
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "gridColor": "#e5e0d6",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "title": {
+      "font": "Arial",
+      "fontSize": 15,
+      "anchor": "start",
+      "fontWeight": "bold"
+    }
+  }
+}

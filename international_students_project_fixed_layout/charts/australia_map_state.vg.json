@@ -1,0 +1,135 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "International students per 100,000 residents by state/territory",
+  "width": 500,
+  "height": 420,
+  "projection": {
+    "type": "mercator",
+    "center": [134, -28],
+    "scale": 620
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/states.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#eeeeee",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "properties.STATE_NAME",
+            "type": "nominal",
+            "title": "State"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/students_by_state_latest.csv"
+      },
+      "transform": [
+        {
+          "lookup": "State_Name",
+          "from": {
+            "data": {
+              "url": "data/states.geojson",
+              "format": {
+                "type": "json",
+                "property": "features"
+              }
+            },
+            "key": "properties.STATE_NAME",
+            "fields": ["geometry"]
+          }
+        },
+        {
+          "calculate": "datum.Students / datum.Population_2025 * 100000",
+          "as": "Students_per_100k_calc"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "white",
+        "strokeWidth": 1.2
+      },
+      "encoding": {
+        "shape": {
+          "field": "geometry",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "Students_per_100k_calc",
+          "type": "quantitative",
+          "title": "Students per 100k",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000, 1500, 2000, 2400],
+            "range": ["#eff3ff", "#bdd7e7", "#6baed6", "#3182bd", "#08519c"]
+          },
+          "legend": {
+            "format": ".0f"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "State_Name",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "Students",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Students"
+          },
+          {
+            "field": "Population_2025",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population 2025"
+          },
+          {
+            "field": "Students_per_100k_calc",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Students per 100k"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "gridColor": "#e5e0d6",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "title": {
+      "font": "Arial",
+      "fontSize": 15,
+      "anchor": "start",
+      "fontWeight": "bold"
+    }
+  }
+}
