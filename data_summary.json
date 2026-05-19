@@ -1,0 +1,131 @@
+{
+  "record_count": 1291805,
+  "seconds": 16.3,
+  "yearly_students_jan": {
+    "2019": 441898,
+    "2020": 483764,
+    "2021": 432976,
+    "2022": 353647,
+    "2023": 413872,
+    "2024": 523197,
+    "2025": 578942,
+    "2026": 527613
+  },
+  "population": {
+    "New South Wales": 8624534,
+    "Victoria": 7104349,
+    "Queensland": 5692642,
+    "South Australia": 1908182,
+    "Western Australia": 3061672,
+    "Tasmania": 576659,
+    "Northern Territory": 265457,
+    "Australian Capital Territory": 486231
+  },
+  "top10_2026": [
+    {
+      "country": "China",
+      "region": "North-East Asia",
+      "students": 123136
+    },
+    {
+      "country": "India",
+      "region": "Southern and Central Asia",
+      "students": 92105
+    },
+    {
+      "country": "Nepal",
+      "region": "Southern and Central Asia",
+      "students": 50929
+    },
+    {
+      "country": "Vietnam",
+      "region": "South-East Asia",
+      "students": 23303
+    },
+    {
+      "country": "Bangladesh",
+      "region": "Southern and Central Asia",
+      "students": 21449
+    },
+    {
+      "country": "Philippines",
+      "region": "South-East Asia",
+      "students": 17534
+    },
+    {
+      "country": "Indonesia",
+      "region": "South-East Asia",
+      "students": 17519
+    },
+    {
+      "country": "Colombia",
+      "region": "Americas",
+      "students": 15774
+    },
+    {
+      "country": "Pakistan",
+      "region": "Southern and Central Asia",
+      "students": 14509
+    },
+    {
+      "country": "Sri Lanka",
+      "region": "Southern and Central Asia",
+      "students": 14258
+    }
+  ],
+  "state_2026": [
+    {
+      "state": "Australian Capital Territory",
+      "students": 10846,
+      "population": 486231
+    },
+    {
+      "state": "New South Wales",
+      "students": 208217,
+      "population": 8624534
+    },
+    {
+      "state": "Northern Territory",
+      "students": 3596,
+      "population": 265457
+    },
+    {
+      "state": "Queensland",
+      "students": 68901,
+      "population": 5692642
+    },
+    {
+      "state": "South Australia",
+      "students": 28068,
+      "population": 1908182
+    },
+    {
+      "state": "Tasmania",
+      "students": 4427,
+      "population": 576659
+    },
+    {
+      "state": "Victoria",
+      "students": 160030,
+      "population": 7104349
+    },
+    {
+      "state": "Western Australia",
+      "students": 43528,
+      "population": 3061672
+    }
+  ],
+  "studio_style_update": {
+    "added_data_files": [
+      "state_change_2025_2026.csv",
+      "state_share_2019_2026.csv",
+      "top5_waffle.csv"
+    ],
+    "added_charts": [
+      "diverging_state_change.vg.json",
+      "waffle_top5_share.vg.json",
+      "slope_state_share.vg.json"
+    ],
+    "notes": "Updated HTML/JS to follow FIT3179 studio style: separate .vg.json specs, external JavaScript embedding with var vg_1 style, Vega-Lite v5 libraries, local data paths, tooltips, params, and hidden Vega action menu."
+  }
+}

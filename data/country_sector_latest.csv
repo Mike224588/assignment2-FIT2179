@@ -1,0 +1,672 @@
+Nationality,Region,Sector,Students,YTD_Enrolments,YTD_Commencements,Monthly_Enrolments,Monthly_Commencements
+Afghanistan,Southern and Central Asia,Higher Education,15,16,1,16,1
+Afghanistan,Southern and Central Asia,VET,7,7,0,7,0
+Albania,Southern and Eastern Europe,ELICOS,1,1,0,1,0
+Albania,Southern and Eastern Europe,Higher Education,17,18,1,18,1
+Albania,Southern and Eastern Europe,Schools,1,1,0,1,0
+Albania,Southern and Eastern Europe,VET,5,7,2,7,2
+Algeria,North Africa and the Middle East,ELICOS,3,5,2,5,2
+Algeria,North Africa and the Middle East,Higher Education,10,11,1,11,1
+Algeria,North Africa and the Middle East,Non-award,1,1,0,1,0
+Algeria,North Africa and the Middle East,VET,7,7,0,7,0
+Andorra,Southern and Eastern Europe,ELICOS,1,1,0,1,0
+Andorra,Southern and Eastern Europe,VET,0,1,1,1,1
+Angola,Sub-Saharan Africa,Non-award,1,1,0,1,0
+Antigua and Barbuda,Americas,Higher Education,2,2,0,2,0
+Argentina,Americas,ELICOS,246,296,50,296,50
+Argentina,Americas,Higher Education,194,195,1,195,1
+Argentina,Americas,Non-award,4,4,0,4,0
+Argentina,Americas,Schools,3,6,3,6,3
+Argentina,Americas,VET,1361,1535,174,1535,174
+Armenia,Southern and Central Asia,Higher Education,9,10,1,10,1
+Armenia,Southern and Central Asia,Non-award,1,2,1,2,1
+Armenia,Southern and Central Asia,VET,7,8,1,8,1
+Austria,North-West Europe,ELICOS,7,10,3,10,3
+Austria,North-West Europe,Higher Education,36,40,4,40,4
+Austria,North-West Europe,Non-award,5,10,5,10,5
+Austria,North-West Europe,Schools,1,30,29,30,29
+Austria,North-West Europe,VET,24,27,3,27,3
+Azerbaijan,Southern and Central Asia,Higher Education,24,24,0,24,0
+Azerbaijan,Southern and Central Asia,Non-award,1,1,0,1,0
+Azerbaijan,Southern and Central Asia,VET,9,9,0,9,0
+Bahamas,Americas,Higher Education,3,4,1,4,1
+Bahamas,Americas,Non-award,0,1,1,1,1
+Bahamas,Americas,VET,1,1,0,1,0
+Bahrain,North Africa and the Middle East,Higher Education,5,5,0,5,0
+Bahrain,North Africa and the Middle East,VET,2,2,0,2,0
+Bangladesh,Southern and Central Asia,ELICOS,192,226,34,226,34
+Bangladesh,Southern and Central Asia,Higher Education,18524,19013,489,19013,489
+Bangladesh,Southern and Central Asia,Non-award,155,205,50,205,50
+Bangladesh,Southern and Central Asia,Schools,52,63,11,63,11
+Bangladesh,Southern and Central Asia,VET,2526,2888,362,2888,362
+Barbados,Americas,Higher Education,3,3,0,3,0
+Belarus,Southern and Eastern Europe,ELICOS,1,1,0,1,0
+Belarus,Southern and Eastern Europe,Higher Education,10,10,0,10,0
+Belarus,Southern and Eastern Europe,VET,1,1,0,1,0
+Belgium,North-West Europe,ELICOS,53,74,21,74,21
+Belgium,North-West Europe,Higher Education,78,82,4,82,4
+Belgium,North-West Europe,Non-award,1,2,1,2,1
+Belgium,North-West Europe,Schools,4,5,1,5,1
+Belgium,North-West Europe,VET,99,119,20,119,20
+Belize,Americas,Higher Education,1,1,0,1,0
+Belize,Americas,VET,0,1,1,1,1
+Bermuda,Americas,Higher Education,1,1,0,1,0
+Bhutan,Southern and Central Asia,ELICOS,80,93,13,93,13
+Bhutan,Southern and Central Asia,Higher Education,6045,6209,164,6209,164
+Bhutan,Southern and Central Asia,Non-award,11,20,9,20,9
+Bhutan,Southern and Central Asia,Schools,5,7,2,7,2
+Bhutan,Southern and Central Asia,VET,1267,1416,149,1416,149
+Bolivia,Americas,ELICOS,15,19,4,19,4
+Bolivia,Americas,Higher Education,23,23,0,23,0
+Bolivia,Americas,Non-award,1,1,0,1,0
+Bolivia,Americas,Schools,0,1,1,1,1
+Bolivia,Americas,VET,38,41,3,41,3
+Bosnia and Herzegovina,Southern and Eastern Europe,ELICOS,0,1,1,1,1
+Bosnia and Herzegovina,Southern and Eastern Europe,Higher Education,2,2,0,2,0
+Bosnia and Herzegovina,Southern and Eastern Europe,VET,3,3,0,3,0
+Botswana,Sub-Saharan Africa,Higher Education,145,149,4,149,4
+Botswana,Sub-Saharan Africa,Non-award,1,1,0,1,0
+Botswana,Sub-Saharan Africa,VET,8,8,0,8,0
+Brazil,Americas,ELICOS,2287,2776,489,2776,489
+Brazil,Americas,Higher Education,1563,1604,41,1604,41
+Brazil,Americas,Non-award,13,25,12,25,12
+Brazil,Americas,Schools,37,131,94,131,94
+Brazil,Americas,VET,7931,8765,834,8765,834
+British Indian Ocean Territory,Sub-Saharan Africa,VET,1,1,0,1,0
+Brunei Darussalam,South-East Asia,ELICOS,1,1,0,1,0
+Brunei Darussalam,South-East Asia,Higher Education,146,151,5,151,5
+Brunei Darussalam,South-East Asia,Non-award,3,6,3,6,3
+Brunei Darussalam,South-East Asia,Schools,0,2,2,2,2
+Brunei Darussalam,South-East Asia,VET,18,21,3,21,3
+Bulgaria,Southern and Eastern Europe,ELICOS,3,3,0,3,0
+Bulgaria,Southern and Eastern Europe,Higher Education,12,13,1,13,1
+Bulgaria,Southern and Eastern Europe,Non-award,1,1,0,1,0
+Bulgaria,Southern and Eastern Europe,Schools,1,1,0,1,0
+Bulgaria,Southern and Eastern Europe,VET,10,10,0,10,0
+Burkina Faso,Sub-Saharan Africa,Higher Education,1,1,0,1,0
+Burundi,Sub-Saharan Africa,Higher Education,5,5,0,5,0
+Burundi,Sub-Saharan Africa,VET,5,5,0,5,0
+Cambodia,South-East Asia,ELICOS,40,59,19,59,19
+Cambodia,South-East Asia,Higher Education,2176,2216,40,2216,40
+Cambodia,South-East Asia,Non-award,175,238,63,238,63
+Cambodia,South-East Asia,Schools,423,544,121,544,121
+Cambodia,South-East Asia,VET,164,214,50,214,50
+Cameroon,Sub-Saharan Africa,ELICOS,0,1,1,1,1
+Cameroon,Sub-Saharan Africa,Higher Education,14,14,0,14,0
+Cameroon,Sub-Saharan Africa,Schools,1,1,0,1,0
+Cameroon,Sub-Saharan Africa,VET,2,3,1,3,1
+Canada,Americas,ELICOS,0,1,1,1,1
+Canada,Americas,Higher Education,2178,2445,267,2445,267
+Canada,Americas,Non-award,19,64,45,64,45
+Canada,Americas,Schools,12,24,12,24,12
+Canada,Americas,VET,186,229,43,229,43
+Chad,Sub-Saharan Africa,Higher Education,1,1,0,1,0
+Chad,Sub-Saharan Africa,VET,1,1,0,1,0
+Chile,Americas,ELICOS,673,779,106,779,106
+Chile,Americas,Higher Education,410,423,13,423,13
+Chile,Americas,Non-award,1,1,0,1,0
+Chile,Americas,Schools,2,11,9,11,9
+Chile,Americas,VET,1981,2245,264,2245,264
+China,North-East Asia,ELICOS,5571,6680,1109,6680,1109
+China,North-East Asia,Higher Education,101759,103552,1793,103552,1793
+China,North-East Asia,Non-award,3021,3464,443,3464,443
+China,North-East Asia,Schools,4335,5932,1597,5932,1597
+China,North-East Asia,VET,8450,9536,1086,9536,1086
+Colombia,Americas,ELICOS,1938,2358,420,2358,420
+Colombia,Americas,Higher Education,1716,1761,45,1761,45
+Colombia,Americas,Non-award,5,9,4,9,4
+Colombia,Americas,Schools,6,6,0,6,0
+Colombia,Americas,VET,12109,13269,1160,13269,1160
+"Congo, Democratic Republic of",Sub-Saharan Africa,Higher Education,14,15,1,15,1
+"Congo, Democratic Republic of",Sub-Saharan Africa,Non-award,2,2,0,2,0
+"Congo, Democratic Republic of",Sub-Saharan Africa,VET,4,4,0,4,0
+"Congo, Republic of",Sub-Saharan Africa,Higher Education,1,1,0,1,0
+Costa Rica,Americas,ELICOS,1,2,1,2,1
+Costa Rica,Americas,Higher Education,13,14,1,14,1
+Costa Rica,Americas,Non-award,0,1,1,1,1
+Costa Rica,Americas,VET,16,19,3,19,3
+Cote d'Ivoire,Sub-Saharan Africa,Higher Education,2,2,0,2,0
+Croatia,Southern and Eastern Europe,ELICOS,3,4,1,4,1
+Croatia,Southern and Eastern Europe,Higher Education,6,9,3,9,3
+Croatia,Southern and Eastern Europe,Non-award,1,1,0,1,0
+Croatia,Southern and Eastern Europe,VET,4,6,2,6,2
+Cuba,Americas,ELICOS,1,1,0,1,0
+Cuba,Americas,Higher Education,2,2,0,2,0
+Cuba,Americas,VET,2,2,0,2,0
+Cyprus,Southern and Eastern Europe,Higher Education,4,4,0,4,0
+Cyprus,Southern and Eastern Europe,Non-award,1,1,0,1,0
+Cyprus,Southern and Eastern Europe,Schools,0,1,1,1,1
+Cyprus,Southern and Eastern Europe,VET,9,11,2,11,2
+Czech Republic,Southern and Eastern Europe,ELICOS,24,35,11,35,11
+Czech Republic,Southern and Eastern Europe,Higher Education,45,47,2,47,2
+Czech Republic,Southern and Eastern Europe,Non-award,8,9,1,9,1
+Czech Republic,Southern and Eastern Europe,Schools,2,4,2,4,2
+Czech Republic,Southern and Eastern Europe,VET,105,127,22,127,22
+Denmark,North-West Europe,ELICOS,4,4,0,4,0
+Denmark,North-West Europe,Higher Education,54,55,1,55,1
+Denmark,North-West Europe,Non-award,8,22,14,22,14
+Denmark,North-West Europe,Schools,0,6,6,6,6
+Denmark,North-West Europe,VET,18,26,8,26,8
+Djibouti,Sub-Saharan Africa,Higher Education,4,4,0,4,0
+Djibouti,Sub-Saharan Africa,VET,1,1,0,1,0
+Dominica,Americas,Higher Education,5,5,0,5,0
+Dominica,Americas,VET,1,1,0,1,0
+Dominican Republic,Americas,ELICOS,1,2,1,2,1
+Dominican Republic,Americas,Higher Education,1,1,0,1,0
+Dominican Republic,Americas,Non-award,1,2,1,2,1
+Dominican Republic,Americas,Schools,1,1,0,1,0
+Dominican Republic,Americas,VET,6,7,1,7,1
+Ecuador,Americas,ELICOS,491,588,97,588,97
+Ecuador,Americas,Higher Education,162,167,5,167,5
+Ecuador,Americas,Non-award,1,1,0,1,0
+Ecuador,Americas,Schools,3,3,0,3,0
+Ecuador,Americas,VET,845,950,105,950,105
+Egypt,North Africa and the Middle East,ELICOS,52,71,19,71,19
+Egypt,North Africa and the Middle East,Higher Education,252,276,24,276,24
+Egypt,North Africa and the Middle East,Non-award,4,5,1,5,1
+Egypt,North Africa and the Middle East,Schools,5,6,1,6,1
+Egypt,North Africa and the Middle East,VET,155,167,12,167,12
+El Salvador,Americas,ELICOS,2,2,0,2,0
+El Salvador,Americas,Higher Education,7,9,2,9,2
+El Salvador,Americas,Non-award,0,2,2,2,2
+El Salvador,Americas,VET,20,22,2,22,2
+Equatorial Guinea,Sub-Saharan Africa,Higher Education,1,1,0,1,0
+Equatorial Guinea,Sub-Saharan Africa,Schools,1,1,0,1,0
+Eritrea,Sub-Saharan Africa,Higher Education,3,4,1,4,1
+Eritrea,Sub-Saharan Africa,Non-award,1,1,0,1,0
+Estonia,Southern and Eastern Europe,ELICOS,2,2,0,2,0
+Estonia,Southern and Eastern Europe,Higher Education,19,19,0,19,0
+Estonia,Southern and Eastern Europe,VET,94,109,15,109,15
+Ethiopia,Sub-Saharan Africa,Higher Education,433,477,44,477,44
+Ethiopia,Sub-Saharan Africa,VET,3,3,0,3,0
+Fiji,Oceania and Antarctica,ELICOS,23,27,4,27,4
+Fiji,Oceania and Antarctica,Higher Education,640,667,27,667,27
+Fiji,Oceania and Antarctica,Non-award,1,1,0,1,0
+Fiji,Oceania and Antarctica,Schools,19,25,6,25,6
+Fiji,Oceania and Antarctica,VET,1919,2112,193,2112,193
+Finland,North-West Europe,ELICOS,3,3,0,3,0
+Finland,North-West Europe,Higher Education,49,52,3,52,3
+Finland,North-West Europe,Non-award,3,4,1,4,1
+Finland,North-West Europe,Schools,1,2,1,2,1
+Finland,North-West Europe,VET,27,33,6,33,6
+France,North-West Europe,ELICOS,271,357,86,357,86
+France,North-West Europe,Higher Education,570,608,38,608,38
+France,North-West Europe,Non-award,177,208,31,208,31
+France,North-West Europe,Schools,18,28,10,28,10
+France,North-West Europe,VET,862,1002,140,1002,140
+Gabon,Sub-Saharan Africa,Higher Education,2,2,0,2,0
+Gambia,Sub-Saharan Africa,Higher Education,2,2,0,2,0
+Gaza Strip and West Bank,North Africa and the Middle East,Higher Education,13,13,0,13,0
+Gaza Strip and West Bank,North Africa and the Middle East,Schools,0,1,1,1,1
+Georgia,Southern and Central Asia,ELICOS,0,1,1,1,1
+Georgia,Southern and Central Asia,Higher Education,7,7,0,7,0
+Germany,North-West Europe,ELICOS,67,71,4,71,4
+Germany,North-West Europe,Higher Education,613,653,40,653,40
+Germany,North-West Europe,Non-award,95,150,55,150,55
+Germany,North-West Europe,Schools,225,561,336,561,336
+Germany,North-West Europe,VET,451,524,73,524,73
+Ghana,Sub-Saharan Africa,Higher Education,321,345,24,345,24
+Ghana,Sub-Saharan Africa,Non-award,2,3,1,3,1
+Ghana,Sub-Saharan Africa,Schools,0,2,2,2,2
+Ghana,Sub-Saharan Africa,VET,20,23,3,23,3
+Greece,Southern and Eastern Europe,ELICOS,7,7,0,7,0
+Greece,Southern and Eastern Europe,Higher Education,29,31,2,31,2
+Greece,Southern and Eastern Europe,Non-award,2,2,0,2,0
+Greece,Southern and Eastern Europe,Schools,1,1,0,1,0
+Greece,Southern and Eastern Europe,VET,53,57,4,57,4
+Grenada,Americas,Higher Education,1,1,0,1,0
+Grenada,Americas,VET,1,1,0,1,0
+Guatemala,Americas,ELICOS,4,5,1,5,1
+Guatemala,Americas,Higher Education,33,33,0,33,0
+Guatemala,Americas,Non-award,2,2,0,2,0
+Guatemala,Americas,Schools,2,2,0,2,0
+Guatemala,Americas,VET,28,32,4,32,4
+Guinea-Bissau,Sub-Saharan Africa,Higher Education,1,1,0,1,0
+Guyana,Americas,Non-award,1,1,0,1,0
+Guyana,Americas,VET,1,1,0,1,0
+Haiti,Americas,Higher Education,2,2,0,2,0
+Honduras,Americas,ELICOS,1,1,0,1,0
+Honduras,Americas,Higher Education,7,7,0,7,0
+Honduras,Americas,Schools,1,1,0,1,0
+Honduras,Americas,VET,5,5,0,5,0
+Hong Kong SAR,North-East Asia,ELICOS,119,160,41,160,41
+Hong Kong SAR,North-East Asia,Higher Education,5506,5610,104,5610,104
+Hong Kong SAR,North-East Asia,Non-award,134,227,93,227,93
+Hong Kong SAR,North-East Asia,Schools,680,912,232,912,232
+Hong Kong SAR,North-East Asia,VET,614,714,100,714,100
+Hungary,Southern and Eastern Europe,ELICOS,5,6,1,6,1
+Hungary,Southern and Eastern Europe,Higher Education,31,32,1,32,1
+Hungary,Southern and Eastern Europe,Non-award,2,2,0,2,0
+Hungary,Southern and Eastern Europe,Schools,1,3,2,3,2
+Hungary,Southern and Eastern Europe,VET,36,39,3,39,3
+Iceland,North-West Europe,Higher Education,3,3,0,3,0
+Iceland,North-West Europe,Non-award,4,4,0,4,0
+India,Southern and Central Asia,ELICOS,250,292,42,292,42
+India,Southern and Central Asia,Higher Education,61357,62691,1334,62691,1334
+India,Southern and Central Asia,Non-award,112,129,17,129,17
+India,Southern and Central Asia,Schools,185,222,37,222,37
+India,Southern and Central Asia,VET,30201,33722,3521,33722,3521
+Indonesia,South-East Asia,ELICOS,134,181,47,181,47
+Indonesia,South-East Asia,Higher Education,10474,10660,186,10660,186
+Indonesia,South-East Asia,Non-award,194,253,59,253,59
+Indonesia,South-East Asia,Schools,62,82,20,82,20
+Indonesia,South-East Asia,VET,6655,7625,970,7625,970
+Iran,North Africa and the Middle East,ELICOS,19,38,19,38,19
+Iran,North Africa and the Middle East,Higher Education,2209,2395,186,2395,186
+Iran,North Africa and the Middle East,Non-award,19,23,4,23,4
+Iran,North Africa and the Middle East,Schools,63,87,24,87,24
+Iran,North Africa and the Middle East,VET,90,99,9,99,9
+Iraq,North Africa and the Middle East,ELICOS,2,2,0,2,0
+Iraq,North Africa and the Middle East,Higher Education,50,55,5,55,5
+Iraq,North Africa and the Middle East,VET,3,3,0,3,0
+Ireland,North-West Europe,ELICOS,0,1,1,1,1
+Ireland,North-West Europe,Higher Education,92,103,11,103,11
+Ireland,North-West Europe,Non-award,26,35,9,35,9
+Ireland,North-West Europe,VET,336,388,52,388,52
+Israel,North Africa and the Middle East,ELICOS,3,5,2,5,2
+Israel,North Africa and the Middle East,Higher Education,36,38,2,38,2
+Israel,North Africa and the Middle East,Non-award,1,1,0,1,0
+Israel,North Africa and the Middle East,Schools,2,2,0,2,0
+Israel,North Africa and the Middle East,VET,96,117,21,117,21
+Italy,Southern and Eastern Europe,ELICOS,151,211,60,211,60
+Italy,Southern and Eastern Europe,Higher Education,529,549,20,549,20
+Italy,Southern and Eastern Europe,Non-award,19,25,6,25,6
+Italy,Southern and Eastern Europe,Schools,29,80,51,80,51
+Italy,Southern and Eastern Europe,VET,1179,1394,215,1394,215
+Jamaica,Americas,Higher Education,9,9,0,9,0
+Jamaica,Americas,Non-award,1,1,0,1,0
+Jamaica,Americas,Schools,1,1,0,1,0
+Jamaica,Americas,VET,3,3,0,3,0
+Japan,North-East Asia,ELICOS,1501,1800,299,1800,299
+Japan,North-East Asia,Higher Education,1733,1768,35,1768,35
+Japan,North-East Asia,Non-award,183,199,16,199,16
+Japan,North-East Asia,Schools,257,595,338,595,338
+Japan,North-East Asia,VET,1497,1737,240,1737,240
+Jordan,North Africa and the Middle East,ELICOS,38,40,2,40,2
+Jordan,North Africa and the Middle East,Higher Education,202,215,13,215,13
+Jordan,North Africa and the Middle East,Non-award,4,4,0,4,0
+Jordan,North Africa and the Middle East,Schools,1,1,0,1,0
+Jordan,North Africa and the Middle East,VET,60,66,6,66,6
+Kazakhstan,Southern and Central Asia,ELICOS,5,6,1,6,1
+Kazakhstan,Southern and Central Asia,Higher Education,108,112,4,112,4
+Kazakhstan,Southern and Central Asia,Non-award,4,6,2,6,2
+Kazakhstan,Southern and Central Asia,Schools,2,2,0,2,0
+Kazakhstan,Southern and Central Asia,VET,8,9,1,9,1
+Kenya,Sub-Saharan Africa,ELICOS,70,116,46,116,46
+Kenya,Sub-Saharan Africa,Higher Education,4213,4329,116,4329,116
+Kenya,Sub-Saharan Africa,Non-award,53,60,7,60,7
+Kenya,Sub-Saharan Africa,Schools,3,5,2,5,2
+Kenya,Sub-Saharan Africa,VET,1643,1850,207,1850,207
+Kiribati,Oceania and Antarctica,ELICOS,1,1,0,1,0
+Kiribati,Oceania and Antarctica,Higher Education,3,3,0,3,0
+Kiribati,Oceania and Antarctica,Schools,3,3,0,3,0
+Kiribati,Oceania and Antarctica,VET,9,9,0,9,0
+"Korea, Democratic People's Republic of (North)",North-East Asia,ELICOS,2,2,0,2,0
+"Korea, Republic of (South)",North-East Asia,ELICOS,963,1246,283,1246,283
+"Korea, Republic of (South)",North-East Asia,Higher Education,3765,3942,177,3942,177
+"Korea, Republic of (South)",North-East Asia,Non-award,116,153,37,153,37
+"Korea, Republic of (South)",North-East Asia,Schools,638,917,279,917,279
+"Korea, Republic of (South)",North-East Asia,VET,2953,3428,475,3428,475
+Kosovo,Southern and Eastern Europe,ELICOS,1,1,0,1,0
+Kosovo,Southern and Eastern Europe,Higher Education,6,6,0,6,0
+Kosovo,Southern and Eastern Europe,VET,1,2,1,2,1
+Kuwait,North Africa and the Middle East,ELICOS,12,16,4,16,4
+Kuwait,North Africa and the Middle East,Higher Education,384,395,11,395,11
+Kuwait,North Africa and the Middle East,Non-award,44,60,16,60,16
+Kyrgyzstan,Southern and Central Asia,ELICOS,2,2,0,2,0
+Kyrgyzstan,Southern and Central Asia,Higher Education,20,22,2,22,2
+Kyrgyzstan,Southern and Central Asia,VET,8,8,0,8,0
+Laos,South-East Asia,ELICOS,81,109,28,109,28
+Laos,South-East Asia,Higher Education,298,304,6,304,6
+Laos,South-East Asia,Non-award,15,22,7,22,7
+Laos,South-East Asia,Schools,13,15,2,15,2
+Laos,South-East Asia,VET,298,340,42,340,42
+Latvia,Southern and Eastern Europe,ELICOS,1,1,0,1,0
+Latvia,Southern and Eastern Europe,Higher Education,8,9,1,9,1
+Latvia,Southern and Eastern Europe,Non-award,1,1,0,1,0
+Latvia,Southern and Eastern Europe,Schools,1,1,0,1,0
+Latvia,Southern and Eastern Europe,VET,17,19,2,19,2
+Lebanon,North Africa and the Middle East,ELICOS,3,3,0,3,0
+Lebanon,North Africa and the Middle East,Higher Education,159,166,7,166,7
+Lebanon,North Africa and the Middle East,Non-award,6,7,1,7,1
+Lebanon,North Africa and the Middle East,Schools,1,4,3,4,3
+Lebanon,North Africa and the Middle East,VET,38,41,3,41,3
+Lesotho,Sub-Saharan Africa,Higher Education,6,9,3,9,3
+Lesotho,Sub-Saharan Africa,VET,1,1,0,1,0
+Liberia,Sub-Saharan Africa,Higher Education,6,6,0,6,0
+Liberia,Sub-Saharan Africa,Schools,1,4,3,4,3
+Liberia,Sub-Saharan Africa,VET,2,2,0,2,0
+Libya,North Africa and the Middle East,Higher Education,2,2,0,2,0
+Libya,North Africa and the Middle East,Non-award,1,1,0,1,0
+Liechtenstein,North-West Europe,ELICOS,0,2,2,2,2
+Liechtenstein,North-West Europe,Higher Education,1,2,1,2,1
+Lithuania,Southern and Eastern Europe,ELICOS,0,1,1,1,1
+Lithuania,Southern and Eastern Europe,Higher Education,35,36,1,36,1
+Lithuania,Southern and Eastern Europe,Non-award,2,3,1,3,1
+Lithuania,Southern and Eastern Europe,VET,215,242,27,242,27
+Luxembourg,North-West Europe,Higher Education,6,8,2,8,2
+Luxembourg,North-West Europe,Non-award,4,4,0,4,0
+Luxembourg,North-West Europe,Schools,0,2,2,2,2
+Luxembourg,North-West Europe,VET,5,6,1,6,1
+Macau,North-East Asia,ELICOS,12,14,2,14,2
+Macau,North-East Asia,Higher Education,296,306,10,306,10
+Macau,North-East Asia,Non-award,17,18,1,18,1
+Macau,North-East Asia,Schools,14,20,6,20,6
+Macau,North-East Asia,VET,14,16,2,16,2
+Madagascar,Sub-Saharan Africa,ELICOS,1,1,0,1,0
+Madagascar,Sub-Saharan Africa,Higher Education,10,10,0,10,0
+Madagascar,Sub-Saharan Africa,VET,2,2,0,2,0
+Malawi,Sub-Saharan Africa,Higher Education,49,49,0,49,0
+Malawi,Sub-Saharan Africa,Schools,2,2,0,2,0
+Malawi,Sub-Saharan Africa,VET,6,6,0,6,0
+Malaysia,South-East Asia,ELICOS,63,80,17,80,17
+Malaysia,South-East Asia,Higher Education,6031,6162,131,6162,131
+Malaysia,South-East Asia,Non-award,123,156,33,156,33
+Malaysia,South-East Asia,Schools,58,87,29,87,29
+Malaysia,South-East Asia,VET,2693,2949,256,2949,256
+Maldives,Southern and Central Asia,Higher Education,121,123,2,123,2
+Maldives,Southern and Central Asia,Non-award,2,2,0,2,0
+Maldives,Southern and Central Asia,Schools,1,1,0,1,0
+Maldives,Southern and Central Asia,VET,3,3,0,3,0
+Mali,Sub-Saharan Africa,ELICOS,1,1,0,1,0
+Malta,Southern and Eastern Europe,Higher Education,8,8,0,8,0
+Malta,Southern and Eastern Europe,Non-award,1,1,0,1,0
+Malta,Southern and Eastern Europe,VET,5,6,1,6,1
+Marshall Islands,Oceania and Antarctica,Higher Education,1,1,0,1,0
+Mauritius,Sub-Saharan Africa,ELICOS,2,3,1,3,1
+Mauritius,Sub-Saharan Africa,Higher Education,530,537,7,537,7
+Mauritius,Sub-Saharan Africa,Non-award,1,1,0,1,0
+Mauritius,Sub-Saharan Africa,Schools,3,4,1,4,1
+Mauritius,Sub-Saharan Africa,VET,592,656,64,656,64
+Mexico,Americas,ELICOS,343,428,85,428,85
+Mexico,Americas,Higher Education,412,425,13,425,13
+Mexico,Americas,Non-award,4,12,8,12,8
+Mexico,Americas,Schools,0,3,3,3,3
+Mexico,Americas,VET,1252,1392,140,1392,140
+"Micronesia, Federated States of",Oceania and Antarctica,Non-award,1,1,0,1,0
+Moldova,Southern and Eastern Europe,Higher Education,4,4,0,4,0
+Moldova,Southern and Eastern Europe,Non-award,0,2,2,2,2
+Monaco,North-West Europe,Higher Education,1,1,0,1,0
+Monaco,North-West Europe,Non-award,1,1,0,1,0
+Mongolia,North-East Asia,ELICOS,329,404,75,404,75
+Mongolia,North-East Asia,Higher Education,1217,1231,14,1231,14
+Mongolia,North-East Asia,Non-award,35,45,10,45,10
+Mongolia,North-East Asia,Schools,14,18,4,18,4
+Mongolia,North-East Asia,VET,2161,2352,191,2352,191
+Montenegro,Southern and Eastern Europe,ELICOS,3,3,0,3,0
+Morocco,North Africa and the Middle East,ELICOS,5,5,0,5,0
+Morocco,North Africa and the Middle East,Higher Education,26,28,2,28,2
+Morocco,North Africa and the Middle East,Non-award,0,1,1,1,1
+Morocco,North Africa and the Middle East,Schools,1,1,0,1,0
+Morocco,North Africa and the Middle East,VET,32,40,8,40,8
+Mozambique,Sub-Saharan Africa,Higher Education,21,21,0,21,0
+Mozambique,Sub-Saharan Africa,VET,0,1,1,1,1
+Myanmar,South-East Asia,ELICOS,1,1,0,1,0
+Myanmar,South-East Asia,Higher Education,436,439,3,439,3
+Myanmar,South-East Asia,Non-award,8,8,0,8,0
+Myanmar,South-East Asia,Schools,12,16,4,16,4
+Myanmar,South-East Asia,VET,18,20,2,20,2
+Namibia,Sub-Saharan Africa,Higher Education,13,14,1,14,1
+Namibia,Sub-Saharan Africa,VET,6,6,0,6,0
+Nauru,Oceania and Antarctica,Higher Education,16,16,0,16,0
+Nauru,Oceania and Antarctica,Schools,30,48,18,48,18
+Nauru,Oceania and Antarctica,VET,6,8,2,8,2
+Nepal,Southern and Central Asia,ELICOS,584,758,174,758,174
+Nepal,Southern and Central Asia,Higher Education,40347,41302,955,41302,955
+Nepal,Southern and Central Asia,Non-award,104,123,19,123,19
+Nepal,Southern and Central Asia,Schools,19,24,5,24,5
+Nepal,Southern and Central Asia,VET,9875,10817,942,10817,942
+Netherlands,North-West Europe,ELICOS,7,7,0,7,0
+Netherlands,North-West Europe,Higher Education,161,170,9,170,9
+Netherlands,North-West Europe,Non-award,20,27,7,27,7
+Netherlands,North-West Europe,Schools,5,7,2,7,2
+Netherlands,North-West Europe,VET,89,102,13,102,13
+Nicaragua,Americas,ELICOS,1,1,0,1,0
+Nicaragua,Americas,Higher Education,4,4,0,4,0
+Nicaragua,Americas,Non-award,0,1,1,1,1
+Nicaragua,Americas,VET,1,1,0,1,0
+Niger,Sub-Saharan Africa,Higher Education,2,2,0,2,0
+Nigeria,Sub-Saharan Africa,ELICOS,5,8,3,8,3
+Nigeria,Sub-Saharan Africa,Higher Education,1058,1120,62,1120,62
+Nigeria,Sub-Saharan Africa,Non-award,8,10,2,10,2
+Nigeria,Sub-Saharan Africa,Schools,2,4,2,4,2
+Nigeria,Sub-Saharan Africa,VET,148,157,9,157,9
+North Macedonia,Southern and Eastern Europe,ELICOS,6,7,1,7,1
+North Macedonia,Southern and Eastern Europe,Higher Education,42,42,0,42,0
+North Macedonia,Southern and Eastern Europe,Schools,1,1,0,1,0
+North Macedonia,Southern and Eastern Europe,VET,44,46,2,46,2
+Norway,North-West Europe,ELICOS,6,6,0,6,0
+Norway,North-West Europe,Higher Education,271,286,15,286,15
+Norway,North-West Europe,Non-award,114,172,58,172,58
+Norway,North-West Europe,Schools,53,54,1,54,1
+Norway,North-West Europe,VET,29,34,5,34,5
+Oman,North Africa and the Middle East,ELICOS,5,33,28,33,28
+Oman,North Africa and the Middle East,Higher Education,94,97,3,97,3
+Oman,North Africa and the Middle East,Non-award,15,30,15,30,15
+Oman,North Africa and the Middle East,VET,1,1,0,1,0
+Other,Unknown,ELICOS,2,2,0,2,0
+Other,Unknown,Higher Education,5,6,1,6,1
+Other,Unknown,Schools,0,1,1,1,1
+Other,Unknown,VET,7,7,0,7,0
+Pakistan,Southern and Central Asia,ELICOS,45,58,13,58,13
+Pakistan,Southern and Central Asia,Higher Education,6649,6850,201,6850,201
+Pakistan,Southern and Central Asia,Non-award,31,40,9,40,9
+Pakistan,Southern and Central Asia,Schools,14,19,5,19,5
+Pakistan,Southern and Central Asia,VET,7770,8561,791,8561,791
+Panama,Americas,ELICOS,2,3,1,3,1
+Panama,Americas,Higher Education,7,7,0,7,0
+Panama,Americas,Non-award,2,10,8,10,8
+Panama,Americas,VET,13,14,1,14,1
+Papua New Guinea,Oceania and Antarctica,ELICOS,5,11,6,11,6
+Papua New Guinea,Oceania and Antarctica,Higher Education,433,456,23,456,23
+Papua New Guinea,Oceania and Antarctica,Non-award,12,13,1,13,1
+Papua New Guinea,Oceania and Antarctica,Schools,160,267,107,267,107
+Papua New Guinea,Oceania and Antarctica,VET,470,547,77,547,77
+Paraguay,Americas,ELICOS,18,20,2,20,2
+Paraguay,Americas,Higher Education,13,13,0,13,0
+Paraguay,Americas,Non-award,0,1,1,1,1
+Paraguay,Americas,Schools,0,1,1,1,1
+Paraguay,Americas,VET,59,63,4,63,4
+Peru,Americas,ELICOS,246,295,49,295,49
+Peru,Americas,Higher Education,420,430,10,430,10
+Peru,Americas,Non-award,8,10,2,10,2
+Peru,Americas,Schools,5,6,1,6,1
+Peru,Americas,VET,776,893,117,893,117
+Philippines,South-East Asia,ELICOS,111,163,52,163,52
+Philippines,South-East Asia,Higher Education,5401,5552,151,5552,151
+Philippines,South-East Asia,Non-award,36,48,12,48,12
+Philippines,South-East Asia,Schools,50,81,31,81,31
+Philippines,South-East Asia,VET,11936,13157,1221,13157,1221
+Poland,Southern and Eastern Europe,ELICOS,23,28,5,28,5
+Poland,Southern and Eastern Europe,Higher Education,88,93,5,93,5
+Poland,Southern and Eastern Europe,Non-award,16,18,2,18,2
+Poland,Southern and Eastern Europe,Schools,1,5,4,5,4
+Poland,Southern and Eastern Europe,VET,161,172,11,172,11
+Portugal,Southern and Eastern Europe,ELICOS,15,20,5,20,5
+Portugal,Southern and Eastern Europe,Higher Education,189,192,3,192,3
+Portugal,Southern and Eastern Europe,Non-award,10,14,4,14,4
+Portugal,Southern and Eastern Europe,Schools,5,7,2,7,2
+Portugal,Southern and Eastern Europe,VET,115,128,13,128,13
+Qatar,North Africa and the Middle East,Higher Education,6,7,1,7,1
+Qatar,North Africa and the Middle East,Non-award,0,1,1,1,1
+Romania,Southern and Eastern Europe,ELICOS,4,5,1,5,1
+Romania,Southern and Eastern Europe,Higher Education,26,27,1,27,1
+Romania,Southern and Eastern Europe,Non-award,4,4,0,4,0
+Romania,Southern and Eastern Europe,Schools,1,1,0,1,0
+Romania,Southern and Eastern Europe,VET,17,21,4,21,4
+Russian Federation,Southern and Eastern Europe,ELICOS,30,39,9,39,9
+Russian Federation,Southern and Eastern Europe,Higher Education,424,439,15,439,15
+Russian Federation,Southern and Eastern Europe,Non-award,15,19,4,19,4
+Russian Federation,Southern and Eastern Europe,Schools,17,25,8,25,8
+Russian Federation,Southern and Eastern Europe,VET,92,99,7,99,7
+Rwanda,Sub-Saharan Africa,Higher Education,35,38,3,38,3
+Rwanda,Sub-Saharan Africa,Non-award,3,3,0,3,0
+Rwanda,Sub-Saharan Africa,Schools,0,1,1,1,1
+Rwanda,Sub-Saharan Africa,VET,2,2,0,2,0
+Samoa,Oceania and Antarctica,ELICOS,1,1,0,1,0
+Samoa,Oceania and Antarctica,Higher Education,6,7,1,7,1
+Samoa,Oceania and Antarctica,VET,18,18,0,18,0
+San Marino,Southern and Eastern Europe,VET,1,1,0,1,0
+Saudi Arabia,North Africa and the Middle East,ELICOS,226,290,64,290,64
+Saudi Arabia,North Africa and the Middle East,Higher Education,2083,2130,47,2130,47
+Saudi Arabia,North Africa and the Middle East,Non-award,373,490,117,490,117
+Saudi Arabia,North Africa and the Middle East,Schools,2,3,1,3,1
+Saudi Arabia,North Africa and the Middle East,VET,16,16,0,16,0
+Serbia,Southern and Eastern Europe,ELICOS,2,2,0,2,0
+Serbia,Southern and Eastern Europe,Higher Education,15,16,1,16,1
+Serbia,Southern and Eastern Europe,VET,11,12,1,12,1
+Seychelles,Sub-Saharan Africa,Higher Education,9,9,0,9,0
+Seychelles,Sub-Saharan Africa,VET,4,5,1,5,1
+Sierra Leone,Sub-Saharan Africa,Higher Education,11,11,0,11,0
+Sierra Leone,Sub-Saharan Africa,Schools,1,1,0,1,0
+Sierra Leone,Sub-Saharan Africa,VET,4,5,1,5,1
+Singapore,South-East Asia,ELICOS,0,1,1,1,1
+Singapore,South-East Asia,Higher Education,4276,4376,100,4376,100
+Singapore,South-East Asia,Non-award,109,144,35,144,35
+Singapore,South-East Asia,Schools,36,44,8,44,8
+Singapore,South-East Asia,VET,112,129,17,129,17
+Slovakia,Southern and Eastern Europe,ELICOS,10,14,4,14,4
+Slovakia,Southern and Eastern Europe,Higher Education,36,39,3,39,3
+Slovakia,Southern and Eastern Europe,Non-award,1,1,0,1,0
+Slovakia,Southern and Eastern Europe,Schools,2,2,0,2,0
+Slovakia,Southern and Eastern Europe,VET,52,61,9,61,9
+Slovenia,Southern and Eastern Europe,ELICOS,1,1,0,1,0
+Slovenia,Southern and Eastern Europe,Higher Education,11,11,0,11,0
+Slovenia,Southern and Eastern Europe,VET,11,13,2,13,2
+Solomon Islands,Oceania and Antarctica,ELICOS,1,1,0,1,0
+Solomon Islands,Oceania and Antarctica,Higher Education,78,83,5,83,5
+Solomon Islands,Oceania and Antarctica,Non-award,1,1,0,1,0
+Solomon Islands,Oceania and Antarctica,Schools,3,5,2,5,2
+Solomon Islands,Oceania and Antarctica,VET,27,30,3,30,3
+South Africa,Sub-Saharan Africa,Higher Education,374,391,17,391,17
+South Africa,Sub-Saharan Africa,Non-award,6,6,0,6,0
+South Africa,Sub-Saharan Africa,Schools,19,24,5,24,5
+South Africa,Sub-Saharan Africa,VET,212,245,33,245,33
+South Sudan,North Africa and the Middle East,Higher Education,4,4,0,4,0
+Spain,Southern and Eastern Europe,ELICOS,738,908,170,908,170
+Spain,Southern and Eastern Europe,Higher Education,212,224,12,224,12
+Spain,Southern and Eastern Europe,Non-award,70,93,23,93,23
+Spain,Southern and Eastern Europe,Schools,2,5,3,5,3
+Spain,Southern and Eastern Europe,VET,1037,1210,173,1210,173
+Sri Lanka,Southern and Central Asia,ELICOS,48,59,11,59,11
+Sri Lanka,Southern and Central Asia,Higher Education,11281,11461,180,11461,180
+Sri Lanka,Southern and Central Asia,Non-award,29,34,5,34,5
+Sri Lanka,Southern and Central Asia,Schools,85,132,47,132,47
+Sri Lanka,Southern and Central Asia,VET,2815,3169,354,3169,354
+St Helena,Sub-Saharan Africa,Higher Education,1,1,0,1,0
+St Kitts and Nevis,Americas,ELICOS,1,1,0,1,0
+St Kitts and Nevis,Americas,Higher Education,4,5,1,5,1
+St Kitts and Nevis,Americas,VET,1,1,0,1,0
+St Lucia,Americas,Higher Education,1,1,0,1,0
+St Lucia,Americas,Non-award,1,1,0,1,0
+Sudan,North Africa and the Middle East,ELICOS,1,1,0,1,0
+Sudan,North Africa and the Middle East,Higher Education,27,30,3,30,3
+Sudan,North Africa and the Middle East,Non-award,1,2,1,2,1
+Suriname,Americas,Higher Education,1,1,0,1,0
+Swaziland,Sub-Saharan Africa,Higher Education,4,4,0,4,0
+Swaziland,Sub-Saharan Africa,Non-award,1,1,0,1,0
+Swaziland,Sub-Saharan Africa,VET,0,2,2,2,2
+Sweden,North-West Europe,ELICOS,35,45,10,45,10
+Sweden,North-West Europe,Higher Education,137,138,1,138,1
+Sweden,North-West Europe,Non-award,16,28,12,28,12
+Sweden,North-West Europe,Schools,5,9,4,9,4
+Sweden,North-West Europe,VET,88,105,17,105,17
+Switzerland,North-West Europe,ELICOS,105,160,55,160,55
+Switzerland,North-West Europe,Higher Education,87,91,4,91,4
+Switzerland,North-West Europe,Non-award,24,33,9,33,9
+Switzerland,North-West Europe,Schools,11,52,41,52,41
+Switzerland,North-West Europe,VET,21,28,7,28,7
+Syria,North Africa and the Middle East,Higher Education,18,19,1,19,1
+Syria,North Africa and the Middle East,Schools,1,1,0,1,0
+Syria,North Africa and the Middle East,VET,2,2,0,2,0
+Taiwan,North-East Asia,ELICOS,796,966,170,966,170
+Taiwan,North-East Asia,Higher Education,3307,3388,81,3388,81
+Taiwan,North-East Asia,Non-award,200,250,50,250,50
+Taiwan,North-East Asia,Schools,294,462,168,462,168
+Taiwan,North-East Asia,VET,2887,3273,386,3273,386
+Tajikistan,Southern and Central Asia,Higher Education,2,2,0,2,0
+Tajikistan,Southern and Central Asia,VET,1,1,0,1,0
+Tanzania,Sub-Saharan Africa,Higher Education,65,65,0,65,0
+Tanzania,Sub-Saharan Africa,Non-award,1,1,0,1,0
+Tanzania,Sub-Saharan Africa,VET,10,10,0,10,0
+Thailand,South-East Asia,ELICOS,720,904,184,904,184
+Thailand,South-East Asia,Higher Education,2121,2161,40,2161,40
+Thailand,South-East Asia,Non-award,39,45,6,45,6
+Thailand,South-East Asia,Schools,119,164,45,164,45
+Thailand,South-East Asia,VET,8478,9469,991,9469,991
+Timor-Leste,South-East Asia,ELICOS,2,2,0,2,0
+Timor-Leste,South-East Asia,Higher Education,42,42,0,42,0
+Timor-Leste,South-East Asia,Non-award,1,1,0,1,0
+Timor-Leste,South-East Asia,Schools,5,5,0,5,0
+Timor-Leste,South-East Asia,VET,12,15,3,15,3
+Tonga,Oceania and Antarctica,Higher Education,14,14,0,14,0
+Tonga,Oceania and Antarctica,Schools,8,12,4,12,4
+Tonga,Oceania and Antarctica,VET,44,50,6,50,6
+Trinidad and Tobago,Americas,Higher Education,9,9,0,9,0
+Trinidad and Tobago,Americas,Non-award,0,1,1,1,1
+Trinidad and Tobago,Americas,VET,2,2,0,2,0
+Tunisia,North Africa and the Middle East,ELICOS,9,18,9,18,9
+Tunisia,North Africa and the Middle East,Higher Education,5,7,2,7,2
+Tunisia,North Africa and the Middle East,VET,4,7,3,7,3
+Turkiye,North Africa and the Middle East,ELICOS,741,888,147,888,147
+Turkiye,North Africa and the Middle East,Higher Education,421,438,17,438,17
+Turkiye,North Africa and the Middle East,Non-award,12,12,0,12,0
+Turkiye,North Africa and the Middle East,Schools,9,12,3,12,3
+Turkiye,North Africa and the Middle East,VET,1377,1509,132,1509,132
+Turkmenistan,Southern and Central Asia,ELICOS,1,1,0,1,0
+Turkmenistan,Southern and Central Asia,Higher Education,2,2,0,2,0
+Tuvalu,Oceania and Antarctica,Higher Education,3,3,0,3,0
+Uganda,Sub-Saharan Africa,Higher Education,187,192,5,192,5
+Uganda,Sub-Saharan Africa,Non-award,7,13,6,13,6
+Uganda,Sub-Saharan Africa,Schools,1,3,2,3,2
+Uganda,Sub-Saharan Africa,VET,5,7,2,7,2
+Ukraine,Southern and Eastern Europe,Higher Education,20,20,0,20,0
+Ukraine,Southern and Eastern Europe,Non-award,6,8,2,8,2
+Ukraine,Southern and Eastern Europe,Schools,1,1,0,1,0
+Ukraine,Southern and Eastern Europe,VET,9,10,1,10,1
+United Arab Emirates,North Africa and the Middle East,ELICOS,70,93,23,93,23
+United Arab Emirates,North Africa and the Middle East,Higher Education,417,420,3,420,3
+United Arab Emirates,North Africa and the Middle East,Non-award,140,166,26,166,26
+United Kingdom,North-West Europe,ELICOS,1,2,1,2,1
+United Kingdom,North-West Europe,Higher Education,894,939,45,939,45
+United Kingdom,North-West Europe,Non-award,686,700,14,700,14
+United Kingdom,North-West Europe,Schools,27,36,9,36,9
+United Kingdom,North-West Europe,VET,793,992,199,992,199
+United Kingdom (Other),Unknown,Higher Education,4,4,0,4,0
+United Kingdom (Other),Unknown,Schools,0,1,1,1,1
+United States of America,Americas,ELICOS,7,11,4,11,4
+United States of America,Americas,Higher Education,1834,1951,117,1951,117
+United States of America,Americas,Non-award,75,1282,1207,1282,1207
+United States of America,Americas,Schools,89,144,55,144,55
+United States of America,Americas,VET,381,434,53,434,53
+Uruguay,Americas,ELICOS,21,26,5,26,5
+Uruguay,Americas,Higher Education,14,15,1,15,1
+Uruguay,Americas,VET,73,82,9,82,9
+Uzbekistan,Southern and Central Asia,ELICOS,9,12,3,12,3
+Uzbekistan,Southern and Central Asia,Higher Education,206,214,8,214,8
+Uzbekistan,Southern and Central Asia,Non-award,27,27,0,27,0
+Uzbekistan,Southern and Central Asia,Schools,1,1,0,1,0
+Uzbekistan,Southern and Central Asia,VET,54,61,7,61,7
+Vanuatu,Oceania and Antarctica,Higher Education,17,23,6,23,6
+Vanuatu,Oceania and Antarctica,Schools,4,5,1,5,1
+Vanuatu,Oceania and Antarctica,VET,9,9,0,9,0
+Venezuela,Americas,ELICOS,12,13,1,13,1
+Venezuela,Americas,Higher Education,16,16,0,16,0
+Venezuela,Americas,Schools,1,2,1,2,1
+Venezuela,Americas,VET,53,61,8,61,8
+Vietnam,South-East Asia,ELICOS,474,606,132,606,132
+Vietnam,South-East Asia,Higher Education,15212,15584,372,15584,372
+Vietnam,South-East Asia,Non-award,273,328,55,328,55
+Vietnam,South-East Asia,Schools,1973,2441,468,2441,468
+Vietnam,South-East Asia,VET,5371,6275,904,6275,904
+Yemen,North Africa and the Middle East,Higher Education,22,22,0,22,0
+Yemen,North Africa and the Middle East,Non-award,1,1,0,1,0
+Yemen,North Africa and the Middle East,VET,1,1,0,1,0
+Zambia,Sub-Saharan Africa,Higher Education,100,102,2,102,2
+Zambia,Sub-Saharan Africa,Non-award,5,6,1,6,1
+Zambia,Sub-Saharan Africa,VET,39,42,3,42,3
+Zimbabwe,Sub-Saharan Africa,ELICOS,2,3,1,3,1
+Zimbabwe,Sub-Saharan Africa,Higher Education,886,908,22,908,22
+Zimbabwe,Sub-Saharan Africa,Non-award,17,20,3,20,3
+Zimbabwe,Sub-Saharan Africa,Schools,6,7,1,7,1
+Zimbabwe,Sub-Saharan Africa,VET,275,300,25,300,25

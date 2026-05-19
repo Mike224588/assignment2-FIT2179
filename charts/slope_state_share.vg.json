@@ -1,0 +1,125 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "State share of international students, 2019 vs 2026",
+  "width": 500,
+  "height": 330,
+  "data": {
+    "url": "data/state_share_2019_2026.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "point": true,
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "title": null,
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "Share",
+          "type": "quantitative",
+          "title": "Share of national students (%)",
+          "axis": {
+            "format": ".0f"
+          },
+          "scale": {
+            "zero": true
+          }
+        },
+        "detail": {
+          "field": "State_Name"
+        },
+        "color": {
+          "field": "State_Name",
+          "type": "nominal",
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "State_Name",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "Year"
+          },
+          {
+            "field": "Students",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "Share",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Share (%)"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 8,
+        "fontSize": 11
+      },
+      "transform": [
+        {
+          "filter": "datum.Year == 2026"
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "Share",
+          "type": "quantitative",
+          "scale": {
+            "zero": true
+          }
+        },
+        "text": {
+          "field": "State",
+          "type": "nominal"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "gridColor": "#e5e0d6",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "title": {
+      "font": "Arial",
+      "fontSize": 15,
+      "anchor": "start",
+      "fontWeight": "bold"
+    }
+  }
+}
